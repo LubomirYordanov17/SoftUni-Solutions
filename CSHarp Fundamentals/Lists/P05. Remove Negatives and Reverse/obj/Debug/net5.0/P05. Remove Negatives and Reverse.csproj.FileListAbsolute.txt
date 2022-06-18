@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\LIsts\P05. Remove Negatives and Reverse\bin\Debug\net5.0\P05. Remove Negatives and Reverse.exe
+C:\Users\user\source\repos\LIsts\P05. Remove Negatives and Reverse\bin\Debug\net5.0\P05. Remove Negatives and Reverse.deps.json
+C:\Users\user\source\repos\LIsts\P05. Remove Negatives and Reverse\bin\Debug\net5.0\P05. Remove Negatives and Reverse.runtimeconfig.json
+C:\Users\user\source\repos\LIsts\P05. Remove Negatives and Reverse\bin\Debug\net5.0\P05. Remove Negatives and Reverse.runtimeconfig.dev.json
+C:\Users\user\source\repos\LIsts\P05. Remove Negatives and Reverse\bin\Debug\net5.0\P05. Remove Negatives and Reverse.dll
+C:\Users\user\source\repos\LIsts\P05. Remove Negatives and Reverse\bin\Debug\net5.0\ref\P05. Remove Negatives and Reverse.dll
+C:\Users\user\source\repos\LIsts\P05. Remove Negatives and Reverse\bin\Debug\net5.0\P05. Remove Negatives and Reverse.pdb
+C:\Users\user\source\repos\LIsts\P05. Remove Negatives and Reverse\obj\Debug\net5.0\P05. Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LIsts\P05. Remove Negatives and Reverse\obj\Debug\net5.0\P05. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LIsts\P05. Remove Negatives and Reverse\obj\Debug\net5.0\P05. Remove Negatives and Reverse.AssemblyInfo.cs
+C:\Users\user\source\repos\LIsts\P05. Remove Negatives and Reverse\obj\Debug\net5.0\P05. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LIsts\P05. Remove Negatives and Reverse\obj\Debug\net5.0\P05. Remove Negatives and Reverse.dll
+C:\Users\user\source\repos\LIsts\P05. Remove Negatives and Reverse\obj\Debug\net5.0\ref\P05. Remove Negatives and Reverse.dll
+C:\Users\user\source\repos\LIsts\P05. Remove Negatives and Reverse\obj\Debug\net5.0\P05. Remove Negatives and Reverse.pdb
+C:\Users\user\source\repos\LIsts\P05. Remove Negatives and Reverse\obj\Debug\net5.0\P05. Remove Negatives and Reverse.genruntimeconfig.cache
+C:\Users\user\source\repos\LIsts\P05. Remove Negatives and Reverse\obj\Debug\net5.0\P05. Remove Negatives and Reverse.csproj.AssemblyReference.cache
