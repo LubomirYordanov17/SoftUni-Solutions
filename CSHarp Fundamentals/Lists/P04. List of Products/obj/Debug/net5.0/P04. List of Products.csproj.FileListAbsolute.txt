@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\LIsts\P04. List of Products\bin\Debug\net5.0\P04. List of Products.exe
+C:\Users\user\source\repos\LIsts\P04. List of Products\bin\Debug\net5.0\P04. List of Products.deps.json
+C:\Users\user\source\repos\LIsts\P04. List of Products\bin\Debug\net5.0\P04. List of Products.runtimeconfig.json
+C:\Users\user\source\repos\LIsts\P04. List of Products\bin\Debug\net5.0\P04. List of Products.runtimeconfig.dev.json
+C:\Users\user\source\repos\LIsts\P04. List of Products\bin\Debug\net5.0\P04. List of Products.dll
+C:\Users\user\source\repos\LIsts\P04. List of Products\bin\Debug\net5.0\ref\P04. List of Products.dll
+C:\Users\user\source\repos\LIsts\P04. List of Products\bin\Debug\net5.0\P04. List of Products.pdb
+C:\Users\user\source\repos\LIsts\P04. List of Products\obj\Debug\net5.0\P04. List of Products.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LIsts\P04. List of Products\obj\Debug\net5.0\P04. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LIsts\P04. List of Products\obj\Debug\net5.0\P04. List of Products.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LIsts\P04. List of Products\obj\Debug\net5.0\P04. List of Products.AssemblyInfo.cs
+C:\Users\user\source\repos\LIsts\P04. List of Products\obj\Debug\net5.0\P04. List of Products.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LIsts\P04. List of Products\obj\Debug\net5.0\P04. List of Products.dll
+C:\Users\user\source\repos\LIsts\P04. List of Products\obj\Debug\net5.0\ref\P04. List of Products.dll
+C:\Users\user\source\repos\LIsts\P04. List of Products\obj\Debug\net5.0\P04. List of Products.pdb
+C:\Users\user\source\repos\LIsts\P04. List of Products\obj\Debug\net5.0\P04. List of Products.genruntimeconfig.cache
