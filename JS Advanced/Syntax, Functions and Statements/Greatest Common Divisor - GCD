@@ -1,0 +1,12 @@
+function solve(number1,number2){
+    let number=-1;
+for (let index = 1; index <= number1; index++) {
+    if (number1%index==0&&number2%index==0) {
+        number=index
+    }  
+    
+}
+console.log(number)
+}
+solve(15,5)
+solve(2154, 458)
