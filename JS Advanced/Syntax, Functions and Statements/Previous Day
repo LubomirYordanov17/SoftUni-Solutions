@@ -1,0 +1,21 @@
+function solve(year,month,day){
+
+    if (day-1==0) {
+
+      if (month-1==0) {
+        year--;
+        month=12
+        day=30
+      }
+      else{
+        month--;
+        day=30
+      }
+    }
+    else{
+        day--;
+       
+    }
+    console.log(`${year}-${month}-${day}`);
+}
+solve(2016, 9, 30)
