@@ -1,0 +1,17 @@
+function solve(num){
+let numberAsString=num.toString();
+let flag=true;
+let sum=Number(numberAsString[0]);
+for (let index = numberAsString.length-1; index >= 1; index--) {
+   if (numberAsString[index]!=numberAsString[index-1]) {
+    flag=false
+   }
+   sum+=Number(numberAsString[index]);
+   
+}
+
+console.log(flag)
+console.log(sum)
+}
+solve(1234)
+solve(2222222)
