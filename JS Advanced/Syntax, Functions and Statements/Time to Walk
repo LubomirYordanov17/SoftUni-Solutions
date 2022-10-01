@@ -1,0 +1,21 @@
+function solve(steps, footprints,speed){
+let distanceInMeters=steps*footprints
+let speedMeterInSec=speed/3.6
+let time=distanceInMeters/speedMeterInSec;
+let res=Math.floor(distanceInMeters/500)
+
+
+let timeInMin=Math.floor(time/60)
+let timeInSec=Number((time-(timeInMin*60)).toFixed(0))
+let timeInH=Math.floor(time/3600)
+timeInMin+=res
+timeInH+=Math.floor(timeInMin/60)
+timeInMin=timeInMin%60
+
+let formatedH=timeInH<10 ? `0${timeInH}`:`${timeInH}`
+let formatedMin=timeInMin<10 ? `0${timeInMin}`:`${timeInMin}`
+let formatedSec=timeInSec<10 ? `0${timeInSec}`:`${timeInSec}`
+
+console.log(`${formatedH}:${formatedMin}:${formatedSec}`)
+}
+solve(4000, 0.60, 5)
