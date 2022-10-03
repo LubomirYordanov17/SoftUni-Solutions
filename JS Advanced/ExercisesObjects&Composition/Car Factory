@@ -1,0 +1,45 @@
+function solve(data){
+    let res={}
+    res.model=data.model
+    if(data.power<=90){
+        res.engine={
+        power:90,
+        volume:1800
+        }
+
+    }
+    else if (data.power<=120) {
+        res.engine={
+            power: 120, volume: 2400
+            }
+    }
+    else{
+        res.engine={power: 200, volume: 3500 }
+    }
+   
+    res.carriage={type:data.carriage,color:data.color}
+    let wheelsizeArray=[]
+    if (data.wheelsize%2===0) {
+        wheelsizeArray.push(Number(data.wheelsize-1))
+        wheelsizeArray.push(Number(data.wheelsize-1))
+        wheelsizeArray.push(Number(data.wheelsize-1))
+        wheelsizeArray.push(Number(data.wheelsize-1))
+        res.wheels=wheelsizeArray
+    }
+    else{
+        wheelsizeArray.push(Number(data.wheelsize))
+        wheelsizeArray.push(Number(data.wheelsize))
+        wheelsizeArray.push(Number(data.wheelsize))
+        wheelsizeArray.push(Number(data.wheelsize))
+        res.wheels=wheelsizeArray
+    }
+   
+    return res
+      
+}
+solve({ model: 'VW Golf II',
+power: 90,
+color: 'blue',
+carriage: 'hatchback',
+wheelsize: 14 }
+)
