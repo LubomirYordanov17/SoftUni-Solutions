@@ -1,0 +1,20 @@
+function solve(data){
+    let res={}
+    res.weight=data.weight
+    res.experience=data.experience
+    res.levelOfHydrated=data.levelOfHydrated
+    res.dizziness=data.dizziness
+    if (res.dizziness===false) {
+        return res
+    }
+    else{
+        res.dizziness=false
+        res.levelOfHydrated=res.weight*0.1*res.experience
+        return res
+    }    
+}
+console.log(solve({ weight: 80,
+    experience: 1,
+    levelOfHydrated: 0,
+    dizziness: true }
+  ))
