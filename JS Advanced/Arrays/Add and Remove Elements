@@ -1,0 +1,27 @@
+function solve(array){
+    let arrayResult=[]
+    let number=1
+    for (let index = 0; index < array.length; index++) {
+        if (array[index]===`add`) {
+         arrayResult.push(number)
+        }
+        else if (array[index]===`remove`){
+            arrayResult.pop();
+        }
+        number++
+    }
+    return arrayResult.length === 0 ? console.log('Empty') : arrayResult.forEach(x => console.log(x));
+
+}
+solve(['add', 
+'add', 
+'add', 
+'add']
+
+)
+solve(['add', 
+'add', 
+'remove', 
+'add', 
+'add']
+)
