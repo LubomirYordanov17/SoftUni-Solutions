@@ -1,0 +1,15 @@
+function solve(array){
+
+    let current = Number.MIN_SAFE_INTEGER;
+    let newArr = [];
+
+    for(var i = 0; i < array.length; i++) {
+
+        if(array[i] >= current){
+            current = array[i];
+            newArr.push(current);
+        }
+    }
+
+    return newArr;
+}
