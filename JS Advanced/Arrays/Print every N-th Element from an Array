@@ -1,0 +1,17 @@
+function solve(array,number){
+let arrayResult=[array[0]]
+for (let index = number; index < array.length; index+=number) {
+    
+    
+    arrayResult.push(array[index]);
+}
+
+return arrayResult
+}
+console.log(solve(['5', 
+'20', 
+'31', 
+'4', 
+'20'], 
+2
+))
