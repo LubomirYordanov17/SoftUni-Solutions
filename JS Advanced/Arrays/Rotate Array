@@ -1,0 +1,17 @@
+function solve(array, number){
+
+    for (let i = 0; i < number; i++) {
+
+        let current = array.pop();
+        array.unshift(current);
+    }
+
+    return array.join(' ');
+}
+console.log(solve(['Banana', 
+'Orange', 
+'Coconut', 
+'Apple'], 
+15
+
+))
